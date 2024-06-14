@@ -1,2 +1,2 @@
-# javascript
- estudos de JS
+# Javascript
+ Exercícios e conceitos relacionados a js
